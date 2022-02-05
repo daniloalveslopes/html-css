@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.you:hover {
+    color: red;
+    background-color: skyblue;
+}
+.you:visited {
+    color: saddlebrown;
+}
+.you:active {
+    color: seagreen;
+}

@@ -1,0 +1,11 @@
+sites que disponibilza
+icon archive
+favicon.io
+
+
+tag que usamos para adicionar o favicon
+
+link:favicon 
+mais detalhado
+<link rel="shortcut icon" href="gta icon.ico" type="image/x-icon">
+                     use ctrl+espaço para seleçionar o favicon            
